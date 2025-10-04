@@ -1,48 +1,65 @@
-<h2> Hey there! I'm Ashutosh Kumar Jaiswal <img src="https://github.com/Ashutosh049-lab/Ashutosh049-lab/blob/main/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
-
-<h3> 👨🏻‍💻 About Me </h3>
-
-- 🎓 &nbsp; I'm a 4th-year B.Tech student in **Computer Science Engineering** at LNCT Group of Colleges, Bhopal.  
-- 💻 &nbsp; Passionate **Front-End Developer** skilled in React.js, JavaScript, and modern web technologies.  
-- 🚀 &nbsp; Experienced in building responsive, user-friendly applications and AI-powered web platforms.  
-- 🌱 &nbsp; Currently exploring **Next.js**, **Firebase**, and **AI integrations** for smarter web solutions.  
-- 💡 &nbsp; Interested in **AI-driven development**, **System Design**, and **Scalable Web Architectures**.  
-- ✨ &nbsp; When not coding, I enjoy watching tech videos, music, and working on creative side projects.  
-
----
-
-<h3>🛠 Tech Stack</h3>
-
-- 💻 &nbsp; **Languages:** JavaScript | Java | Python | TypeScript | C++  
-- 🌐 &nbsp; **Frontend:** React.js | Next.js | Tailwind CSS | HTML5 | CSS3 | Redux  
-- 🧠 &nbsp; **Backend:** Node.js | Express.js | RESTful APIs | Firebase | PostgreSQL | MySQL | MongoDB  
-- ☁️ &nbsp; **Cloud & Tools:** AWS | Git | GitHub | VS Code | IntelliJ IDEA | Canva  
-- 🧩 &nbsp; **Concepts:** Data Structures & Algorithms | OOP | SDLC | Testing | System Design | CI/CD  
-
----
-
-<h3>🚀 Projects</h3>
-
-🌟 **[AI Resume Builder](https://github.com/Ashutosh049-lab/Ai_Resume_Builder)**  
-Built an AI-powered resume builder using **Next.js**, **React**, **Tailwind CSS**, and **Gemini API**.  
-Integrated real-time preview, PDF/Word export, and AI-generated content suggestions.
-
-💬 **[Revamped Niche Community Platform](https://github.com/Ashutosh049-lab/Revamped-Niche-Community-Platform-Project-)**  
-Interactive platform for real-time community discussions using **React.js**, **Firebase**, **Node.js**, and **Socket.IO**.  
-Implemented AI-driven recommendations, threaded comments, polls, and live feeds.
-
-🏌️ **[Sidcup Family Golf Clone](https://github.com/Ashutosh049-lab/SidcupFamilyGolfClone_Project)**  
-A front-end clone of the Sidcup Family Golf website built with **HTML**, **CSS**, and **JavaScript**,  
-focusing on design precision and responsiveness.
-
----
-
-<h3>📊 GitHub Stats</h3>
+<!-- Profile Header -->
+<h1 align="center">Hey there! 👋 I'm <span style="color:#00BFFF;">Ashutosh Kumar Jaiswal</span></h1>
+<h3 align="center">💻 Front-End Developer | React.js | Next.js | JavaScript | AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashutosh049-lab&show_icons=true&theme=radical" alt="Ashutosh's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh049-lab&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github.com/Ashutosh049-lab/Ashutosh049-lab/blob/main/banner.gif" alt="Banner" width="800"/>
+</p>
+
+---
+
+### 👨🏻‍💻 About Me  
+
+- 🎓 Completed **B.Tech in Computer Science Engineering** from **LNCT Group of Colleges, Bhopal (2025)**  
+- 💻 Passionate about **building modern, responsive, and intelligent web applications**  
+- 🚀 Skilled in **React.js**, **Next.js**, **Tailwind CSS**, and **AI-powered web solutions**  
+- ⚙️ Hands-on with **Firebase**, **Node.js**, **PostgreSQL**, **MySQL**, and **MongoDB**  
+- 🧠 Always learning about **AI integration**, **System Design**, and **Cloud Platforms**  
+- 🎨 Loves clean UI, smooth UX, and problem-solving through technology  
+- ☕ Coffee + Code = Perfect Day  
+
+---
+
+### 🧠 Tech Stack  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Framework-React-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Framework-Next.js-black?style=for-the-badge&logo=next.js" />
+  <img src="https://img.shields.io/badge/Styling-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css" />
+  <img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/Database-MySQL-blue?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-336791?style=for-the-badge&logo=postgresql" />
+  <img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge&logo=amazon-aws" />
+  <img src="https://img.shields.io/badge/Tools-GitHub-black?style=for-the-badge&logo=github" />
+</p>
+
+---
+
+### 🚀 Featured Projects  
+
+#### 🧾 [AI Resume Builder](https://github.com/Ashutosh049-lab/Ai_Resume_Builder)
+An AI-powered platform to create professional resumes using **Next.js**, **React**, and **Gemini API**.  
+✨ Real-time preview • PDF export • AI-suggested content  
+
+#### 💬 [Revamped Niche Community Platform](https://github.com/Ashutosh049-lab/Revamped-Niche-Community-Platform-Project-)
+An interactive platform for niche communities using **React.js**, **Node.js**, **Firebase**, and **Socket.IO**.  
+🧠 Features AI recommendations, real-time feeds, and threaded discussions.  
+
+#### 🏌️ [Sidcup Family Golf Clone](https://github.com/Ashutosh049-lab/SidcupFamilyGolfClone_Project)
+A responsive **HTML-CSS-JS clone** focusing on animations, responsiveness, and clean UI/UX.  
+
+---
+
+### 📊 GitHub Insights  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashutosh049-lab&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashutosh049-lab&theme=radical" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ashutosh049-lab&theme=onestar&row=1&column=6" />
 </p>
 
 <p align="center">
@@ -51,13 +68,14 @@ focusing on design precision and responsiveness.
 
 ---
 
-<h3> 🤝🏻 Connect with Me </h3>
+### 🤝 Connect with Me  
 
 <p align="center">
-&nbsp; <a href="https://www.linkedin.com/in/ashutosh-kumar-jaiswal-128054256/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:jashutosh528@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-&nbsp; <a href="https://github.com/Ashutosh049-lab" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/github.png" width="50" /></a>
-&nbsp; <a href="https://www.youtube.com/@Ashutosh049" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/youtube.png" width="50" /></a>
+  <a href="https://www.linkedin.com/in/ashutosh-kumar-jaiswal-128054256/" target="_blank"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+  <a href="mailto:jashutosh528@gmail.com" target="_blank"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png" width="50" /></a>
+  <a href="https://github.com/Ashutosh049-lab" target="_blank"><img src="https://img.icons8.com/plasticine/100/000000/github.png" width="50" /></a>
+  <a href="https://www.youtube.com/@Ashutosh049" target="_blank"><img src="https://img.icons8.com/plasticine/100/000000/youtube.png" width="50" /></a>
 </p>
 
 ⭐️ From [Ashutosh049-lab](https://github.com/Ashutosh049-lab)
+
