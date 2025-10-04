@@ -1,6 +1,10 @@
 <!-- Profile Header -->
 <h1 align="center">Hey there! 👋 I'm <span style="color:#00BFFF;">Ashutosh Kumar Jaiswal</span></h1>
-<h3 align="center">💻 Front-End Developer | React.js | Next.js | JavaScript | AI Enthusiast</h3>
+
+<h3 align="center">💻 Full Stack Developer | React.js | Next.js | Node.js | Express.js | Java | JavaScript | AI Enthusiast</h3>
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+
 
 <p align="center">
   <img src="https://github.com/Ashutosh049-lab/Ashutosh049-lab/blob/main/banner.gif" alt="Banner" width="800"/>
