@@ -27,13 +27,13 @@
 
 ## 🚀 About Me
 
-**Enthusiastic Computer Science Engineering student** with strong programming skills in Java, JavaScript, and Python. Proficient in web technologies (HTML, CSS, JavaScript frameworks) and familiar with backend frameworks (Node.js, Django, Spring Boot). Knowledgeable in working with SQL/MySQL databases and Git for version control. Eager to apply problem-solving skills and contribute to real-world projects while gaining hands-on experience in building scalable and efficient software solutions.
+**Enthusiastic Computer Science Engineering student** with strong programming skills in Java, and JavaScript. Proficient in web technologies (HTML, CSS, JavaScript frameworks) and familiar with backend frameworks (Node.js, Django, Spring Boot). Knowledgeable in working with SQL/MySQL databases and Git for version control. Eager to apply problem-solving skills and contribute to real-world projects while gaining hands-on experience in building scalable and efficient software solutions.
 
-- 🎓 **Currently pursuing:** Computer Science Engineering at LNCT Group of Colleges (Jun 2025)
+- 🎓 **Completed Degree:** Computer Science Engineering at LNCT Group of Colleges (Jun 2025)
 - 💼 **Focus Areas:** Full-Stack Development, AI Integration, System Design
 - 🌱 **Currently learning:** Advanced System Design, Cloud Technologies (AWS, Azure)
 - 👯 **Looking to collaborate on:** Open Source Projects and AI/ML Applications
-- 💬 **Ask me about:** Python, Django, React, JavaScript, TypeScript, or AI
+- 💬 **Ask me about:**Java, React, JavaScript, TypeScript, or AI
 - 📫 **Reach me at:** jashutosh528@gmail.com
 - 📱 **Phone:** 6263938111
 - ⚡ **Fun fact:** I love building AI-powered applications and automation tools
@@ -86,7 +86,7 @@
       <td width="50%">
         <h3 align="center">🤖 AI Resume Builder</h3>
         <div align="center">
-          <a href="https://github.com/Ashutosh049-lab/Ai_Resume_Builder" target="_blank">
+          <!-- <a href="https://github.com/Ashutosh049-lab/Ai_Resume_Builder" target="_blank"> -->
             <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
           </a>
           <br><br>
@@ -99,7 +99,7 @@
       <td width="50%">
         <h3 align="center">🌐 Revamped Niche Community Platform</h3>
         <div align="center">
-          <a href="https://github.com/Ashutosh049-lab/Revamped-Niche-Community-Platform-Project" target="_blank">
+          <!-- <a href="https://github.com/Ashutosh049-lab/Revamped-Niche-Community-Platform-Project" target="_blank"> -->
             <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
           </a>
           <br><br>
@@ -114,7 +114,7 @@
       <td width="50%">
         <h3 align="center">🏌️ Sidcup Family Golf Clone</h3>
         <div align="center">
-          <a href="https://github.com/Ashutosh049-lab/SidcupFamilyGolfClone_Project" target="_blank">
+          <!-- <a href="https://github.com/Ashutosh049-lab/SidcupFamilyGolfClone_Project" target="_blank"> -->
             <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
           </a>
           <br><br>
