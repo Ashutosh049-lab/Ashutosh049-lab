@@ -90,7 +90,7 @@
             <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
           </a>
           <br><br>
-          <img src="https://via.placeholder.com/400x200/FF6B6B/FFFFFF?text=AI+Resume+Builder" width="400" alt="AI Resume Builder"/>
+          <!-- <img src="https://via.placeholder.com/400x200/FF6B6B/FFFFFF?text=AI+Resume+Builder" width="400" alt="AI Resume Builder"/> -->
           <br><br>
           <p><strong>Tech Stack:</strong> React | Next.js | TypeScript | Tailwind CSS | Gemini API | Puppeteer</p>
           <p>An AI-powered resume-building platform using Next.js, React.js, TypeScript, and Tailwind CSS. Integrated OpenAI and Gemini APIs to enhance resume content with professional phrasing, tailored summaries, and skill suggestions. Features user-friendly forms for adding and editing personal details, education, experience, and projects with real-time live preview. Enables instant export of resumes to PDF and Word formats with optimized SEO through modular architecture.</p>
@@ -103,7 +103,7 @@
             <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
           </a>
           <br><br>
-          <img src="https://via.placeholder.com/400x200/4ECDC4/FFFFFF?text=Community+Platform" width="400" alt="Community Platform"/>
+          <!-- <img src="https://via.placeholder.com/400x200/4ECDC4/FFFFFF?text=Community+Platform" width="400" alt="Community Platform"/> -->
           <br><br>
           <p><strong>Tech Stack:</strong> React.js | Firebase | Node.js | PostgreSQL | Socket.IO | TypeScript | Quill.js</p>
           <p>An interactive platform for discovering and joining niche communities with real-time updates using React.js and Firebase. Built responsive discussion boards with threaded comments, rich-text editing, and voting system. Implemented real-time dynamic feeds with WebSockets, AI-powered recommendations, smart filters, live polls, Q&A sessions, push notifications, achievements, and automated content moderation.</p>
@@ -118,7 +118,7 @@
             <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
           </a>
           <br><br>
-          <img src="https://via.placeholder.com/400x200/45B7D1/FFFFFF?text=Golf+Website+Clone" width="400" alt="Golf Website"/>
+          <!-- <img src="https://via.placeholder.com/400x200/45B7D1/FFFFFF?text=Golf+Website+Clone" width="400" alt="Golf Website"/> -->
           <br><br>
           <p><strong>Tech Stack:</strong> HTML5 | CSS3 | JavaScript | Responsive Design</p>
           <p>A pixel-perfect responsive clone of the Sidcup Family Golf website using HTML, CSS, and JavaScript. Recreated core features and design elements to closely match the original site and enhance user experience. Customized layouts and components to meet specific learning objectives and project requirements with smooth performance across devices.</p>
@@ -129,7 +129,7 @@
         <div align="center">
           <img src="https://img.shields.io/badge/Private-Repository-red?style=for-the-badge&logo=github&logoColor=white" />
           <br><br>
-          <img src="https://via.placeholder.com/400x200/96CEB4/FFFFFF?text=Certification+Generator" width="400" alt="Certification Generator"/>
+          <!-- <img src="https://via.placeholder.com/400x200/96CEB4/FFFFFF?text=Certification+Generator" width="400" alt="Certification Generator"/> -->
           <br><br>
           <p><strong>Tech Stack:</strong> Django | HTML | CSS | JavaScript | Database Integration | Email Services</p>
           <p>A comprehensive web platform for event and quiz management that enables hosts to create events, manage registrations, and automatically generate certificates. Features include banner management, prize pool handling, scheduling, participant registration, automatic certificate generation from templates, CSV integration, instant email delivery, and scalable database solutions for various organizations.</p>
